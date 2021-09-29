@@ -1,7 +1,5 @@
 # FaceDetection
 
-Test task for the company Tevian.
-
 Given a list of photos of people. Need to recognize faces in photos and display additional information.
 
 # Example of console line in FaceDetectionConsole
